@@ -1,0 +1,240 @@
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+F:\Dokumen\2016\Struktur Data\C#\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+J:\2016\Aplikasi Bisnis Desktop\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+D:\ABD\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+D:\ABD\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+D:\ABD\WindowsFormsClient\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+D:\ABD\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+D:\WindowsFormsClient_A\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+D:\WindowsFormsClient_A\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+D:\WindowsFormsClient_A\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+D:\WindowsFormsClient_A\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_31102016\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaJual.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaJual.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+C:\Users\Brenda\Desktop\WindowsFormsClient_A_07112016\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaJual.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormCariSupplier.resources
+D:\72150001\Aplikasi Berbasis Desktop\WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormCariBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormCariBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormCariSupplier.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaJual.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormSupplier.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormLapSupplier.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormOpening.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapNotaBeli.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapNotaJual.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormSaringBeliPerBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapBeliPerBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapJualPerBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringJualPerBarang.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormCariBarang.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormCariSupplier.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormLapSupplier.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaJual.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormOpening.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormSaringBeliPerBarang.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormSupplier.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapBeliPerBarang.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapJualPerBarang.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapNotaBeli.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapNotaJual.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringJualPerBarang.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormUtama.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormUser.resources
+D:\72150001\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormManipulasiUser.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormBindingSource.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormCariBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormCariSupplier.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormDataReader.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormLapSupplier.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormManipulasiUser.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaBeli.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormNotaJual.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormOpening.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormSaringBeliPerBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormSupplier.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormUser.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.FormUtama.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapBeliPerBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapJualPerBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapNotaBeli.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LapNotaJual.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.LaporanStok.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringJualPerBarang.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.SaringLapStok.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.AboutBox1.resources
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\RdlCompile.cache
+D:\Brenda files\Materi Kuliah\Semester 3\Aplikasi Berbasis Desktop - KATON\281116TERBARU_WindowsFormsClient_A_07112016_brenda\WindowsFormsClient\obj\x86\Debug\RdlCompile.compiled

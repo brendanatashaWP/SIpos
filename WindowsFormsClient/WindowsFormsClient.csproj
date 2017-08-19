@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DAD7C136-91C8-4E09-BCAF-579E6A529B09}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsClient</RootNamespace>
+    <AssemblyName>WindowsFormsClient</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetLaporanNotaJual.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLaporanNotaJual.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBarang.Designer.cs">
+      <DependentUpon>FormBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBindingSource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBindingSource.Designer.cs">
+      <DependentUpon>FormBindingSource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCariBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCariBarang.Designer.cs">
+      <DependentUpon>FormCariBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCariSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCariSupplier.Designer.cs">
+      <DependentUpon>FormCariSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataReader.Designer.cs">
+      <DependentUpon>FormDataReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapSupplier.Designer.cs">
+      <DependentUpon>FormLapSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManipulasiUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManipulasiUser.Designer.cs">
+      <DependentUpon>FormManipulasiUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotaBeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNotaBeli.Designer.cs">
+      <DependentUpon>FormNotaBeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNotaJual.Designer.cs">
+      <DependentUpon>FormNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOpening.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOpening.Designer.cs">
+      <DependentUpon>FormOpening.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSaringBeliPerBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSaringBeliPerBarang.Designer.cs">
+      <DependentUpon>FormSaringBeliPerBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSupplier.Designer.cs">
+      <DependentUpon>FormSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser.Designer.cs">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUtama.Designer.cs">
+      <DependentUpon>FormUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InventoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InventoryDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LapBeliPerBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapBeliPerBarang.Designer.cs">
+      <DependentUpon>LapBeliPerBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LapJualPerBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapJualPerBarang.Designer.cs">
+      <DependentUpon>LapJualPerBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LapNotaBeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapNotaBeli.Designer.cs">
+      <DependentUpon>LapNotaBeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LapNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapNotaJual.Designer.cs">
+      <DependentUpon>LapNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanStok.Designer.cs">
+      <DependentUpon>LaporanStok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotaBeliLengkapDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NotaBeliLengkapDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaringJualPerBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaringJualPerBarang.Designer.cs">
+      <DependentUpon>SaringJualPerBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaringLapStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaringLapStok.Designer.cs">
+      <DependentUpon>SaringLapStok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tabel.cs" />
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBarang.resx">
+      <DependentUpon>FormBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBindingSource.resx">
+      <DependentUpon>FormBindingSource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCariBarang.resx">
+      <DependentUpon>FormCariBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCariSupplier.resx">
+      <DependentUpon>FormCariSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataReader.resx">
+      <DependentUpon>FormDataReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapSupplier.resx">
+      <DependentUpon>FormLapSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManipulasiUser.resx">
+      <DependentUpon>FormManipulasiUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNotaBeli.resx">
+      <DependentUpon>FormNotaBeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNotaJual.resx">
+      <DependentUpon>FormNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOpening.resx">
+      <DependentUpon>FormOpening.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSaringBeliPerBarang.resx">
+      <DependentUpon>FormSaringBeliPerBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSupplier.resx">
+      <DependentUpon>FormSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser.resx">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUtama.resx">
+      <DependentUpon>FormUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapBeliperBarang.rdlc" />
+    <EmbeddedResource Include="LapBeliPerBarang.resx">
+      <DependentUpon>LapBeliPerBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapJualPerBarang.rdlc" />
+    <EmbeddedResource Include="LapJualPerBarang.resx">
+      <DependentUpon>LapJualPerBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapNotaBeli.rdlc" />
+    <EmbeddedResource Include="LapNotaBeli.resx">
+      <DependentUpon>LapNotaBeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapNotaJual.rdlc" />
+    <EmbeddedResource Include="LapNotaJual.resx">
+      <DependentUpon>LapNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanStok.rdlc" />
+    <EmbeddedResource Include="LaporanStok.resx">
+      <DependentUpon>LaporanStok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="LaporanSupplier.rdlc" />
+    <EmbeddedResource Include="SaringJualPerBarang.resx">
+      <DependentUpon>SaringJualPerBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaringLapStok.resx">
+      <DependentUpon>SaringLapStok.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DataSetLaporanNotaJual.xsc">
+      <DependentUpon>DataSetLaporanNotaJual.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLaporanNotaJual.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetLaporanNotaJual.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetLaporanNotaJual.xss">
+      <DependentUpon>DataSetLaporanNotaJual.xsd</DependentUpon>
+    </None>
+    <None Include="InventoryDataSet.xsc">
+      <DependentUpon>InventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InventoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InventoryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InventoryDataSet.xss">
+      <DependentUpon>InventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InventoryDataSet1.xsc">
+      <DependentUpon>InventoryDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="InventoryDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InventoryDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InventoryDataSet1.xss">
+      <DependentUpon>InventoryDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="NotaBeliLengkapDataSet.xsc">
+      <DependentUpon>NotaBeliLengkapDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NotaBeliLengkapDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NotaBeliLengkapDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NotaBeliLengkapDataSet.xss">
+      <DependentUpon>NotaBeliLengkapDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="01.DataContainer_MoveFirstHS.png" />
+    <Content Include="02.DataContainer_MovePreviousHS.png" />
+    <Content Include="03.DataContainer_MoveNextHS.png" />
+    <Content Include="04.DataContainer_MoveLastHS.png" />
+    <Content Include="05.Find.png" />
+    <Content Include="06.Print.png" />
+    <Content Include="07.New.png" />
+    <Content Include="08.Edit.png" />
+    <Content Include="09.Delete.png" />
+    <Content Include="10.Save.png" />
+    <Content Include="11.Undo.png" />
+    <Content Include="12.Close.png" />
+    <None Include="Resources\wallpaper.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

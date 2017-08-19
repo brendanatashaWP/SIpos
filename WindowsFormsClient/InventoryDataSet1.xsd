@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="InventoryDataSet1" targetNamespace="http://tempuri.org/InventoryDataSet1.xsd" xmlns:mstns="http://tempuri.org/InventoryDataSet1.xsd" xmlns="http://tempuri.org/InventoryDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="InventoryConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="InventoryConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsClient.Properties.Settings.GlobalReference.Default.InventoryConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DaftarBeliTableAdapter" GeneratorDataComponentClassName="DaftarBeliTableAdapter" Name="DaftarBeli" UserDataComponentName="DaftarBeliTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="InventoryConnectionString (Settings)" DbObjectName="inventory.dbo.DaftarBeli" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT noNotaBeli, tanggal, kodeSupplier, namaSupplier, alamat, kota, telpon, kodeBarang, namaBarang, qty, harga, Jumlah FROM dbo.DaftarBeli</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="noNotaBeli" DataSetColumn="noNotaBeli" />
+              <Mapping SourceColumn="tanggal" DataSetColumn="tanggal" />
+              <Mapping SourceColumn="kodeSupplier" DataSetColumn="kodeSupplier" />
+              <Mapping SourceColumn="namaSupplier" DataSetColumn="namaSupplier" />
+              <Mapping SourceColumn="alamat" DataSetColumn="alamat" />
+              <Mapping SourceColumn="kota" DataSetColumn="kota" />
+              <Mapping SourceColumn="telpon" DataSetColumn="telpon" />
+              <Mapping SourceColumn="kodeBarang" DataSetColumn="kodeBarang" />
+              <Mapping SourceColumn="namaBarang" DataSetColumn="namaBarang" />
+              <Mapping SourceColumn="qty" DataSetColumn="qty" />
+              <Mapping SourceColumn="harga" DataSetColumn="harga" />
+              <Mapping SourceColumn="Jumlah" DataSetColumn="Jumlah" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DetailBeliTableAdapter" GeneratorDataComponentClassName="DetailBeliTableAdapter" Name="DetailBeli" UserDataComponentName="DetailBeliTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="InventoryConnectionString (Settings)" DbObjectName="inventory.dbo.DetailBeli" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT idNotaBeli, noNotaBeli, kodeBarang, namaBarang, qty, harga, jumlah FROM dbo.DetailBeli</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="idNotaBeli" DataSetColumn="idNotaBeli" />
+              <Mapping SourceColumn="noNotaBeli" DataSetColumn="noNotaBeli" />
+              <Mapping SourceColumn="kodeBarang" DataSetColumn="kodeBarang" />
+              <Mapping SourceColumn="namaBarang" DataSetColumn="namaBarang" />
+              <Mapping SourceColumn="qty" DataSetColumn="qty" />
+              <Mapping SourceColumn="harga" DataSetColumn="harga" />
+              <Mapping SourceColumn="jumlah" DataSetColumn="jumlah" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MasterBeliTableAdapter" GeneratorDataComponentClassName="MasterBeliTableAdapter" Name="MasterBeli" UserDataComponentName="MasterBeliTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="InventoryConnectionString (Settings)" DbObjectName="inventory.dbo.MasterBeli" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT noNotaBeli, tanggal, kodeSupplier, namaSupplier, alamat, kota, telpon FROM dbo.MasterBeli</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="noNotaBeli" DataSetColumn="noNotaBeli" />
+              <Mapping SourceColumn="tanggal" DataSetColumn="tanggal" />
+              <Mapping SourceColumn="kodeSupplier" DataSetColumn="kodeSupplier" />
+              <Mapping SourceColumn="namaSupplier" DataSetColumn="namaSupplier" />
+              <Mapping SourceColumn="alamat" DataSetColumn="alamat" />
+              <Mapping SourceColumn="kota" DataSetColumn="kota" />
+              <Mapping SourceColumn="telpon" DataSetColumn="telpon" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_Detail_JualTableAdapter" GeneratorDataComponentClassName="View_Detail_JualTableAdapter" Name="View_Detail_Jual" UserDataComponentName="View_Detail_JualTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="InventoryConnectionString (Settings)" DbObjectName="inventory.dbo.View_Detail_Jual" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT kodeBarang, noNotaJual, idNotaJual, qty, harga, namaBarang, jumlah FROM dbo.View_Detail_Jual</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="kodeBarang" DataSetColumn="kodeBarang" />
+              <Mapping SourceColumn="noNotaJual" DataSetColumn="noNotaJual" />
+              <Mapping SourceColumn="idNotaJual" DataSetColumn="idNotaJual" />
+              <Mapping SourceColumn="qty" DataSetColumn="qty" />
+              <Mapping SourceColumn="harga" DataSetColumn="harga" />
+              <Mapping SourceColumn="namaBarang" DataSetColumn="namaBarang" />
+              <Mapping SourceColumn="jumlah" DataSetColumn="jumlah" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="InventoryDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="InventoryDataSet1" msprop:Generator_UserDSName="InventoryDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DaftarBeli" msprop:Generator_TableClassName="DaftarBeliDataTable" msprop:Generator_TableVarName="tableDaftarBeli" msprop:Generator_TablePropName="DaftarBeli" msprop:Generator_RowDeletingName="DaftarBeliRowDeleting" msprop:Generator_UserTableName="DaftarBeli" msprop:Generator_RowChangingName="DaftarBeliRowChanging" msprop:Generator_RowEvHandlerName="DaftarBeliRowChangeEventHandler" msprop:Generator_RowDeletedName="DaftarBeliRowDeleted" msprop:Generator_RowEvArgName="DaftarBeliRowChangeEvent" msprop:Generator_RowChangedName="DaftarBeliRowChanged" msprop:Generator_RowClassName="DaftarBeliRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="noNotaBeli" msprop:Generator_ColumnVarNameInTable="columnnoNotaBeli" msprop:Generator_ColumnPropNameInRow="noNotaBeli" msprop:Generator_ColumnPropNameInTable="noNotaBeliColumn" msprop:Generator_UserColumnName="noNotaBeli" type="xs:int" />
+              <xs:element name="tanggal" msprop:Generator_ColumnVarNameInTable="columntanggal" msprop:Generator_ColumnPropNameInRow="tanggal" msprop:Generator_ColumnPropNameInTable="tanggalColumn" msprop:Generator_UserColumnName="tanggal" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="kodeSupplier" msprop:Generator_ColumnVarNameInTable="columnkodeSupplier" msprop:Generator_ColumnPropNameInRow="kodeSupplier" msprop:Generator_ColumnPropNameInTable="kodeSupplierColumn" msprop:Generator_UserColumnName="kodeSupplier" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaSupplier" msprop:Generator_ColumnVarNameInTable="columnnamaSupplier" msprop:Generator_ColumnPropNameInRow="namaSupplier" msprop:Generator_ColumnPropNameInTable="namaSupplierColumn" msprop:Generator_UserColumnName="namaSupplier" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="alamat" msprop:Generator_ColumnVarNameInTable="columnalamat" msprop:Generator_ColumnPropNameInRow="alamat" msprop:Generator_ColumnPropNameInTable="alamatColumn" msprop:Generator_UserColumnName="alamat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="kota" msprop:Generator_ColumnVarNameInTable="columnkota" msprop:Generator_ColumnPropNameInRow="kota" msprop:Generator_ColumnPropNameInTable="kotaColumn" msprop:Generator_UserColumnName="kota" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="telpon" msprop:Generator_ColumnVarNameInTable="columntelpon" msprop:Generator_ColumnPropNameInRow="telpon" msprop:Generator_ColumnPropNameInTable="telponColumn" msprop:Generator_UserColumnName="telpon" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="kodeBarang" msprop:Generator_ColumnVarNameInTable="columnkodeBarang" msprop:Generator_ColumnPropNameInRow="kodeBarang" msprop:Generator_ColumnPropNameInTable="kodeBarangColumn" msprop:Generator_UserColumnName="kodeBarang" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaBarang" msprop:Generator_ColumnVarNameInTable="columnnamaBarang" msprop:Generator_ColumnPropNameInRow="namaBarang" msprop:Generator_ColumnPropNameInTable="namaBarangColumn" msprop:Generator_UserColumnName="namaBarang" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="qty" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_UserColumnName="qty" type="xs:int" minOccurs="0" />
+              <xs:element name="harga" msprop:Generator_ColumnVarNameInTable="columnharga" msprop:Generator_ColumnPropNameInRow="harga" msprop:Generator_ColumnPropNameInTable="hargaColumn" msprop:Generator_UserColumnName="harga" type="xs:int" minOccurs="0" />
+              <xs:element name="Jumlah" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnJumlah" msprop:Generator_ColumnPropNameInRow="Jumlah" msprop:Generator_ColumnPropNameInTable="JumlahColumn" msprop:Generator_UserColumnName="Jumlah" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DetailBeli" msprop:Generator_TableClassName="DetailBeliDataTable" msprop:Generator_TableVarName="tableDetailBeli" msprop:Generator_TablePropName="DetailBeli" msprop:Generator_RowDeletingName="DetailBeliRowDeleting" msprop:Generator_UserTableName="DetailBeli" msprop:Generator_RowChangingName="DetailBeliRowChanging" msprop:Generator_RowEvHandlerName="DetailBeliRowChangeEventHandler" msprop:Generator_RowDeletedName="DetailBeliRowDeleted" msprop:Generator_RowEvArgName="DetailBeliRowChangeEvent" msprop:Generator_RowChangedName="DetailBeliRowChanged" msprop:Generator_RowClassName="DetailBeliRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idNotaBeli" msprop:Generator_ColumnVarNameInTable="columnidNotaBeli" msprop:Generator_ColumnPropNameInRow="idNotaBeli" msprop:Generator_ColumnPropNameInTable="idNotaBeliColumn" msprop:Generator_UserColumnName="idNotaBeli" type="xs:int" />
+              <xs:element name="noNotaBeli" msprop:Generator_ColumnVarNameInTable="columnnoNotaBeli" msprop:Generator_ColumnPropNameInRow="noNotaBeli" msprop:Generator_ColumnPropNameInTable="noNotaBeliColumn" msprop:Generator_UserColumnName="noNotaBeli" type="xs:int" minOccurs="0" />
+              <xs:element name="kodeBarang" msprop:Generator_ColumnVarNameInTable="columnkodeBarang" msprop:Generator_ColumnPropNameInRow="kodeBarang" msprop:Generator_ColumnPropNameInTable="kodeBarangColumn" msprop:Generator_UserColumnName="kodeBarang" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaBarang" msprop:Generator_ColumnVarNameInTable="columnnamaBarang" msprop:Generator_ColumnPropNameInRow="namaBarang" msprop:Generator_ColumnPropNameInTable="namaBarangColumn" msprop:Generator_UserColumnName="namaBarang" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="qty" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_UserColumnName="qty" type="xs:int" minOccurs="0" />
+              <xs:element name="harga" msprop:Generator_ColumnVarNameInTable="columnharga" msprop:Generator_ColumnPropNameInRow="harga" msprop:Generator_ColumnPropNameInTable="hargaColumn" msprop:Generator_UserColumnName="harga" type="xs:int" minOccurs="0" />
+              <xs:element name="jumlah" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnjumlah" msprop:Generator_ColumnPropNameInRow="jumlah" msprop:Generator_ColumnPropNameInTable="jumlahColumn" msprop:Generator_UserColumnName="jumlah" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MasterBeli" msprop:Generator_TableClassName="MasterBeliDataTable" msprop:Generator_TableVarName="tableMasterBeli" msprop:Generator_TablePropName="MasterBeli" msprop:Generator_RowDeletingName="MasterBeliRowDeleting" msprop:Generator_UserTableName="MasterBeli" msprop:Generator_RowChangingName="MasterBeliRowChanging" msprop:Generator_RowEvHandlerName="MasterBeliRowChangeEventHandler" msprop:Generator_RowDeletedName="MasterBeliRowDeleted" msprop:Generator_RowEvArgName="MasterBeliRowChangeEvent" msprop:Generator_RowChangedName="MasterBeliRowChanged" msprop:Generator_RowClassName="MasterBeliRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="noNotaBeli" msprop:Generator_ColumnVarNameInTable="columnnoNotaBeli" msprop:Generator_ColumnPropNameInRow="noNotaBeli" msprop:Generator_ColumnPropNameInTable="noNotaBeliColumn" msprop:Generator_UserColumnName="noNotaBeli" type="xs:int" />
+              <xs:element name="tanggal" msprop:Generator_ColumnVarNameInTable="columntanggal" msprop:Generator_ColumnPropNameInRow="tanggal" msprop:Generator_ColumnPropNameInTable="tanggalColumn" msprop:Generator_UserColumnName="tanggal" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="kodeSupplier" msprop:Generator_ColumnVarNameInTable="columnkodeSupplier" msprop:Generator_ColumnPropNameInRow="kodeSupplier" msprop:Generator_ColumnPropNameInTable="kodeSupplierColumn" msprop:Generator_UserColumnName="kodeSupplier" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaSupplier" msprop:Generator_ColumnVarNameInTable="columnnamaSupplier" msprop:Generator_ColumnPropNameInRow="namaSupplier" msprop:Generator_ColumnPropNameInTable="namaSupplierColumn" msprop:Generator_UserColumnName="namaSupplier" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="alamat" msprop:Generator_ColumnVarNameInTable="columnalamat" msprop:Generator_ColumnPropNameInRow="alamat" msprop:Generator_ColumnPropNameInTable="alamatColumn" msprop:Generator_UserColumnName="alamat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="kota" msprop:Generator_ColumnVarNameInTable="columnkota" msprop:Generator_ColumnPropNameInRow="kota" msprop:Generator_ColumnPropNameInTable="kotaColumn" msprop:Generator_UserColumnName="kota" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="telpon" msprop:Generator_ColumnVarNameInTable="columntelpon" msprop:Generator_ColumnPropNameInRow="telpon" msprop:Generator_ColumnPropNameInTable="telponColumn" msprop:Generator_UserColumnName="telpon" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="View_Detail_Jual" msprop:Generator_TableClassName="View_Detail_JualDataTable" msprop:Generator_TableVarName="tableView_Detail_Jual" msprop:Generator_TablePropName="View_Detail_Jual" msprop:Generator_RowDeletingName="View_Detail_JualRowDeleting" msprop:Generator_UserTableName="View_Detail_Jual" msprop:Generator_RowChangingName="View_Detail_JualRowChanging" msprop:Generator_RowEvHandlerName="View_Detail_JualRowChangeEventHandler" msprop:Generator_RowDeletedName="View_Detail_JualRowDeleted" msprop:Generator_RowEvArgName="View_Detail_JualRowChangeEvent" msprop:Generator_RowChangedName="View_Detail_JualRowChanged" msprop:Generator_RowClassName="View_Detail_JualRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kodeBarang" msprop:Generator_ColumnVarNameInTable="columnkodeBarang" msprop:Generator_ColumnPropNameInRow="kodeBarang" msprop:Generator_ColumnPropNameInTable="kodeBarangColumn" msprop:Generator_UserColumnName="kodeBarang" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="noNotaJual" msprop:Generator_ColumnVarNameInTable="columnnoNotaJual" msprop:Generator_ColumnPropNameInRow="noNotaJual" msprop:Generator_ColumnPropNameInTable="noNotaJualColumn" msprop:Generator_UserColumnName="noNotaJual" type="xs:int" minOccurs="0" />
+              <xs:element name="idNotaJual" msprop:Generator_ColumnVarNameInTable="columnidNotaJual" msprop:Generator_ColumnPropNameInRow="idNotaJual" msprop:Generator_ColumnPropNameInTable="idNotaJualColumn" msprop:Generator_UserColumnName="idNotaJual" type="xs:int" />
+              <xs:element name="qty" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_UserColumnName="qty" type="xs:int" minOccurs="0" />
+              <xs:element name="harga" msprop:Generator_ColumnVarNameInTable="columnharga" msprop:Generator_ColumnPropNameInRow="harga" msprop:Generator_ColumnPropNameInTable="hargaColumn" msprop:Generator_UserColumnName="harga" type="xs:int" minOccurs="0" />
+              <xs:element name="namaBarang" msprop:Generator_ColumnVarNameInTable="columnnamaBarang" msprop:Generator_ColumnPropNameInRow="namaBarang" msprop:Generator_ColumnPropNameInTable="namaBarangColumn" msprop:Generator_UserColumnName="namaBarang" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="jumlah" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnjumlah" msprop:Generator_ColumnPropNameInRow="jumlah" msprop:Generator_ColumnPropNameInTable="jumlahColumn" msprop:Generator_UserColumnName="jumlah" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DaftarBeli" />
+      <xs:field xpath="mstns:noNotaBeli" />
+    </xs:unique>
+    <xs:unique name="DetailBeli_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DetailBeli" />
+      <xs:field xpath="mstns:idNotaBeli" />
+    </xs:unique>
+    <xs:unique name="MasterBeli_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MasterBeli" />
+      <xs:field xpath="mstns:noNotaBeli" />
+    </xs:unique>
+    <xs:unique name="View_Detail_Jual_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:View_Detail_Jual" />
+      <xs:field xpath="mstns:idNotaJual" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
